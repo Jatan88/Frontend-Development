@@ -1,0 +1,23 @@
+p.a {
+    font-style: normal;
+}
+  
+p.b {
+    font-style: italic;
+}
+
+p.c {
+    font-style: oblique;
+}
+
+p.d {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p.e {
+    color: aqua;
+}
+
+p.f {
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+body {
+    background-color: aliceblue;
+    background-image: url("/images/bg-image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
