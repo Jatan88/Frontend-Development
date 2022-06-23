@@ -1,0 +1,29 @@
+body {
+    background-color:#E7E9EB;
+  }
+  #myDIV {
+    height:400px;
+    background-color:#FFFFFF;
+  }
+  .vis{ 
+    background:lightblue;
+    visibility: visible;
+  }
+
+  .notvis{ 
+    background:lightgreen;
+    visibility: hidden;
+  }
+
+  .collapse {
+    visibility: collapse;
+  }
+  
+  table {
+    border: 1px solid red;
+  }
+  
+  td {
+    border: 1px solid gray;
+  }
+  
