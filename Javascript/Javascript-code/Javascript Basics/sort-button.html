@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Demo</title>
+	</head>
+<body>
+	<p>Click the button to sort an array.</p>
+    <button onclick="myFunction()">Click</button>
+    <p id="myId"></p>
+
+    <script>
+        var a = ["Orange", "Pineapple", "Apple", "Banana"];
+        document.getElementById("myId").innerHTML = a;
+
+        function myFunction() {
+        a.sort();
+            document.getElementById("myId").innerHTML = a;
+        }
+    </script>
+</body>
+</html>
