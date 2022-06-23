@@ -1,0 +1,17 @@
+p {color: red;}
+
+p.ex1 {display: none;}
+p.ex2 {display: inline;}
+p.ex3 {display: block;}
+p.ex4 {display: inline-block;}
+
+.outer {
+    border: 2px solid red;
+    width: 300px;
+    display: contents;
+  }
+  
+  .outer > div {
+    border: 1px solid green;
+  }
+  
